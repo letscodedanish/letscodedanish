@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **WPF**
+- 🔭 I’m currently working on **Building skills**
 
-- 🌱 I’m currently learning **MERN,Java,Blockchain**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **C++,WEB DEVELOPMENT**
+- 💬 Ask me about **DSA , Blockchain , Development**
 
-- 📫 How to reach me **md236572@gmail.com**
+- 📫 How to reach me **workwithdanish01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
